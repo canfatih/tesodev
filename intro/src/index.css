@@ -1,0 +1,106 @@
+.input {
+  width: 509px;
+  height: 46px;
+
+  background: #ffffff;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+.input:hover{
+  background: rgba(100, 100, 100, 0.08);
+border: 2px solid rgba(0, 0, 0, 0.6);
+box-sizing: border-box;
+border-radius: 8px;
+}
+.button-default {
+  position: absolute;
+  width: 138px;
+  height: 46px;
+  margin-left: 30px;
+
+  background: #204080;
+  border-radius: 8px;
+  color: #ffffff;
+}
+.button-default:hover{
+  font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+background: #4F75C2;
+border-radius: 8px;
+}
+.dropdown {
+  position: absolute;
+  width: 97px;
+  height: 25px;
+  left: 1300px;
+  top: 158px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #484848;
+}
+
+.Top-Component {
+  padding-left: 30vh;
+  margin-top: 50px;
+  margin-bottom: 102px;
+}
+.jpg {
+  position: absolute;
+  width: 149px;
+  height: 63px;
+  left: 350px;
+  top: 50px;
+}
+.List-Component {
+  padding-left: 30vh;
+  width: 990px;
+  margin-bottom: 50px;
+}
+.Pagination-Component {
+  margin-left: 300px;
+}
+
+.alt-1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #686868;
+}
+.alt-2 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #484848;
+}
+.alt-3 {
+  padding-left: 350px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #484848;
+}
+.button-paginations {
+  margin-left: 30px;
+}
